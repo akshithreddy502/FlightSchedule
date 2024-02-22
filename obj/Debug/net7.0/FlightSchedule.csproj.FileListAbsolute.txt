@@ -1,0 +1,15 @@
+/Users/akshith/Projects/FlightSchedule/FlightSchedule/bin/Debug/net7.0/FlightSchedule
+/Users/akshith/Projects/FlightSchedule/FlightSchedule/bin/Debug/net7.0/FlightSchedule.deps.json
+/Users/akshith/Projects/FlightSchedule/FlightSchedule/bin/Debug/net7.0/FlightSchedule.runtimeconfig.json
+/Users/akshith/Projects/FlightSchedule/FlightSchedule/bin/Debug/net7.0/FlightSchedule.dll
+/Users/akshith/Projects/FlightSchedule/FlightSchedule/bin/Debug/net7.0/FlightSchedule.pdb
+/Users/akshith/Projects/FlightSchedule/FlightSchedule/obj/Debug/net7.0/FlightSchedule.csproj.AssemblyReference.cache
+/Users/akshith/Projects/FlightSchedule/FlightSchedule/obj/Debug/net7.0/FlightSchedule.GeneratedMSBuildEditorConfig.editorconfig
+/Users/akshith/Projects/FlightSchedule/FlightSchedule/obj/Debug/net7.0/FlightSchedule.AssemblyInfoInputs.cache
+/Users/akshith/Projects/FlightSchedule/FlightSchedule/obj/Debug/net7.0/FlightSchedule.AssemblyInfo.cs
+/Users/akshith/Projects/FlightSchedule/FlightSchedule/obj/Debug/net7.0/FlightSchedule.csproj.CoreCompileInputs.cache
+/Users/akshith/Projects/FlightSchedule/FlightSchedule/obj/Debug/net7.0/FlightSchedule.dll
+/Users/akshith/Projects/FlightSchedule/FlightSchedule/obj/Debug/net7.0/refint/FlightSchedule.dll
+/Users/akshith/Projects/FlightSchedule/FlightSchedule/obj/Debug/net7.0/FlightSchedule.pdb
+/Users/akshith/Projects/FlightSchedule/FlightSchedule/obj/Debug/net7.0/FlightSchedule.genruntimeconfig.cache
+/Users/akshith/Projects/FlightSchedule/FlightSchedule/obj/Debug/net7.0/ref/FlightSchedule.dll
