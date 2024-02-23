@@ -22,6 +22,6 @@ var scheduler = new FlightScheduleController(flightRepository, flightService);
 Console.WriteLine("Flight Schedule:");
 scheduler.DisplayFlightSchedule();
 
-string ordersFilePath = "/Users/akshith/Projects/FlightScheduler/FlightScheduler/flights.json";
+string ordersFilePath = "flights.json";
 Console.WriteLine("Load Orders:");
 scheduler.ProcessFlightOrders(ordersFilePath);
